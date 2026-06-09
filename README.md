@@ -1,14 +1,12 @@
 # Hey, I'm Shayaan 👋
 
 I'm a Computer Science student building projects in static analysis, AI, full-stack development, and systems programming.
-<br>
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🚀 What I'm working on
 
 - **vulnAI**: a Python-based static analysis engine for detecting vulnerabilities in code.
 - **YouPy**: a cross-platform playlist converter and syncing app for Spotify, YouTube, and Apple Music.
-- - **Synapse**: an experimental deep learning project exploring dynamic pruning, neuron regrowth, and adaptive neural architectures.
+- **Synapse**: an experimental deep learning project exploring dynamic pruning, neuron regrowth, and adaptive neural architectures.
 
 ## 🧰 Tech Stack
 
