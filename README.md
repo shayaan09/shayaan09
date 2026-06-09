@@ -26,7 +26,3 @@ I'm a Computer Science student building projects in static analysis, AI, full-st
 - Advanced DSA
 - Systems programming
 
-## 📫 Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/shayaanhassan/)  
-[Portfolio](shayaan09.github.io)
