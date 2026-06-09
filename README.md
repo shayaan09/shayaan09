@@ -17,11 +17,6 @@ I'm a Computer Science student building projects in static analysis, AI, full-st
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Shayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayaan09&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayaan09&layout=compact&theme=tokyonight)
 
 ## 🌱 Currently learning
 
