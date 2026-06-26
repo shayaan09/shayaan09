@@ -1,4 +1,4 @@
-# Hey, I'm Shayaan 👋
+# Hi there! 👋
 
 I'm a Computer Science student building projects in static analysis, AI, full-stack development, and systems programming.
 
