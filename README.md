@@ -8,7 +8,7 @@ I'm a Computer Science student building projects in static analysis, AI, full-st
 - **YouPy**: a cross-platform playlist converter and syncing app for Spotify, YouTube, and Apple Music.
 - **Synapse**: an experimental deep learning project exploring dynamic pruning, neuron regrowth, and adaptive neural architectures.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
