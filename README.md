@@ -2,7 +2,7 @@
 
 I'm a Computer Science student building projects in static analysis, AI, full-stack development, and systems programming.
 
-## 🚀 What I'm working on
+## What I'm working on
 
 - **vulnAI**: a Python-based static analysis engine for detecting vulnerabilities in code.
 - **YouPy**: a cross-platform playlist converter and syncing app for Spotify, YouTube, and Apple Music.
@@ -18,11 +18,9 @@ I'm a Computer Science student building projects in static analysis, AI, full-st
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 🌱 Currently learning
+## Currently learning
 
-- Static analysis
-- Vulnerability detection
 - Open-source contribution
-- Advanced DSA
 - Systems programming
+- Deep Learning
 
