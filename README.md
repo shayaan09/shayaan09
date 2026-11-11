@@ -4,7 +4,7 @@ I'm a Computer Science student building projects in static analysis, AI, full-st
 
 ## What I'm working on
 
-- **vulnAI**: a Python-based static analysis engine for detecting vulnerabilities in code.
+- **Vulny**: a Python-based static analysis engine for detecting vulnerabilities in code.
 - **YouPy**: a cross-platform playlist converter and syncing app for Spotify, YouTube, and Apple Music.
 - **Synapse**: an experimental deep learning project exploring dynamic pruning, neuron regrowth, and adaptive neural architectures.
 
